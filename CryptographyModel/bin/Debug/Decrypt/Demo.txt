@@ -1,0 +1,6 @@
+Student_ID: 16520092
+Student_Name: Luc Thien Binh
+Course_ID: SE310.K21.PMCL
+Course_Name: Dotnet Technology
+Course_Lecturer_Name: Huynh Ho Thi Mong Trinh 
+Course_Seminar_Name: Cryptography Model
